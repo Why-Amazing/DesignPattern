@@ -1,6 +1,7 @@
 package creational.singleton.lazy;
 
 /**
+ * 单线程没有问题,多线程下会出现问题
  * Created by lazyo on 2018/5/12.
  */
 public class Singleton {
